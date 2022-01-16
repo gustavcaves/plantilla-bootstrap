@@ -16,10 +16,10 @@
       background-size:cover;
   }
   .seminegro{
-      background-color: rgba(0,0,0,.7);
+      background-color: rgba(0,0,0,.4);
   }
   .redondo{
-      border-radius: 50%;
+      border-radius: 25px;
   }
   #video{
       position:absolute;
